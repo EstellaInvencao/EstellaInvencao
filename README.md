@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there 👋
 <!--
 Exemplos:
 - 🔭 I’m currently working on ...
